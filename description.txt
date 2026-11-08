@@ -1,0 +1,3 @@
+The original AllBlend!
+
+Forces most tiles to "blend" with each other rather than have visible gaps between them.
